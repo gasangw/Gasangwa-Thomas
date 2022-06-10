@@ -5,5 +5,5 @@
 * ⚛ React
 * 💻 HTML, CSS, JS
 
-<!-- [![Top Langs](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gasangw&theme=merko=true))](https://github.com/abdulhamiid/github-readme-stats)<br/> -->
+<!-- [![Top Langs](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gasangw&theme=gruvbox_light=true))](https://github.com/abdulhamiid/github-readme-stats)<br/> -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gasangw&show_icons=true&theme=radical)
